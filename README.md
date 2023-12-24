@@ -33,7 +33,7 @@ Welcome to the Command-Line Todo List Application! This simple yet powerful Pyth
 3. Run the application:
 
     ```bash
-    python code/todo_app.py
+    python code/main.py
     ```
 
 ## Usage
