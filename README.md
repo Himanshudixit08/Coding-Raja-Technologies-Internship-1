@@ -58,4 +58,4 @@ Welcome to the Command-Line Todo List Application! This simple yet powerful Pyth
 Here's a quick example of how your application works:
 
 ```bash
-python code/todo_app.py
+python code/main.py
